@@ -1,0 +1,9 @@
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/Experimental.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/Nightly.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/Continuous.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/demo.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/PACKAGE.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/CMakeFiles/ZERO_CHECK.dir

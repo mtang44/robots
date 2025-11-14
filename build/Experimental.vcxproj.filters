@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\build\CMakeFiles\3170b8e408d5c23fb6115ab3c7b128d2\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A5789AB-2F85-31A4-8BCB-F89CECEFCC25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

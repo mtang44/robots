@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20251114-1738-Experimental"
+	Name="ME-Laptop"
+	Generator="ctest-4.1.1"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x86/cl.exe"
+	CompilerVersion="19.44.35214.0"
+	OSName="Windows"
+	Hostname="ME-Laptop"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="8"
+	ModelName="AMD Ryzen 7 5700U with Radeon Graphics"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="30554"
+	TotalPhysicalMemory="15706"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1801"
+	>
+	<Testing>
+		<StartDateTime>Nov 14 11:42 Central Standard Time</StartDateTime>
+		<StartTestTime>1763142161</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 14 11:42 Central Standard Time</EndDateTime>
+		<EndTestTime>1763142161</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

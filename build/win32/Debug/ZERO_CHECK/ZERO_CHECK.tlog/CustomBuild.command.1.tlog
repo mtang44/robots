@@ -1,0 +1,10 @@
+^C:\USERS\MCST2\ONEDRIVE\DOCUMENTS\DESKTOP\CMPM123_TEST\ASSIGNMENT 6 ROBOTS\ROBOTS\BUILD\CMAKEFILES\3170B8E408D5C23FB6115AB3C7B128D2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots" "-BC:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mcst2/OneDrive/Documents/Desktop/cmpm123_test/Assignment 6 Robots/robots/build/tictactoe.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

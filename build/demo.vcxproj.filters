@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\BitHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\ChessSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\TicTacToe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Checkers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Othello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Connect4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\Robots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\AstroBots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\AstroArena.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\classes\AstroCollision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\main_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mcst2\OneDrive\Documents\Desktop\cmpm123_test\Assignment 6 Robots\robots\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{19B2B887-7516-3B13-85BD-8FA6B3CDB0F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

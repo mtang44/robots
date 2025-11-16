@@ -185,6 +185,41 @@ int GraemeShip::SetupShip() {
             THRUST(2);
         }
     }
+    IF_SHIP_DAMAGED() {
+        SCAN();
+        IF_SEEN(){
+            TURN_DEG(45);
+        }
+    }
+    return Finalize();
+}
+int MichaelShip::SetupShip() {
+    SCAN();
+    IF_SEEN() {
+        IF_SCAN_LE(300) {  // Increased from 400 - be more cautious
+            // Thrust away from threat
+            THRUST(1);
+            TURN_TO_SCAN();
+             IF_SHIP_CAN_FIRE_PHASER() {
+                FIRE_PHASER();
+            }
+        }
+    }
+    THRUST(3);
+    IF_SHIP_CAN_FIRE_PHOTON() {
+                TURN_DEG(30);
+                FIRE_PHOTON();
+            }
+    IF_SHIP_HP_LE(6) {  // Emergency threshold
+        THRUST(3);
+    }
+    IF_SHIP_FUEL_LE(60) {
+        SCAN();
+        IF_SCAN_LE(400) {  // Increased from 100
+            TURN_TO_SCAN();
+            THRUST(2);
+        }
+    }
     return Finalize();
 }
 
@@ -203,6 +238,7 @@ std::vector<std::unique_ptr<ShipBase>> AstroBots::makeShips() {
     v.emplace_back(std::make_unique<DroneShip>());
     v.emplace_back(std::make_unique<MinerShip>());
     v.emplace_back(std::make_unique<GraemeShip>());
+    v.emplace_back(std::make_unique<MichaelShip>());
     return v;
 }
 

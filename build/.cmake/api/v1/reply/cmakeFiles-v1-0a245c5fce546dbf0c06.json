@@ -87,16 +87,6 @@
 			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake"
 		},
 		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCCompiler.cmake.in"
-		},
-		{
 			"isGenerated" : true,
 			"path" : "build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake"
 		},
@@ -104,11 +94,6 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
